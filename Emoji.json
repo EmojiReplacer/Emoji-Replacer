@@ -19,7 +19,7 @@
   },
   {
     "name": "Google 11 ",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11beta.ttf",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
     "size": "9.2 MB",
     "preview_photo": "X6LFGqH.png"
   },
@@ -27,6 +27,12 @@
     "name": "EmojiKitchen",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/EmojiKitchen.ttf",
     "size": "9.8 MB",
-    "preview_photo": "X6LFGqH.png"  
+    "preview_photo": "X6LFGqH.png"    
+  },
+  {
+    "name": "Twemoji",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji.ttf",
+    "size": "2.81 MB",
+    "preview_photo": "X6LFGqH.png"
   }
 ]
