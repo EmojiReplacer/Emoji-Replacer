@@ -21,7 +21,13 @@
     "name": "Google 11 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
     "size": "9.2 MB",
-    "preview_photo": "https://imgur.com/3oSAaYI"
+    "preview_photo": "https://imgur.com/3oSAaYI"  
+ },
+  {
+    "name": "Samsung (2.5)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Samsung2.5.ttf",
+    "size": "16 MB",
+    "preview_photo": "https://imgur.com/6fIerTP"    
   },
   {
     "name": "Emoji Kitchen",
