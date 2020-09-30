@@ -1,17 +1,19 @@
 [
+ {
+    "name": "iOS14 (beta)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS14(beta).ttf",
+    "size": "22.9  MB",
+    "preview_photo": "https://imgur.com/yZIJtbo"
+  },
   {
+  	
     "name": "Unofficial iOS14 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/unofficial_iOS14(13.1).ttf",
     "size": "30.11 MB",
     "preview_photo": "https://imgur.com/womwPbq"
   },
   {
-    "name": "Unofficial iOS14",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/unofficial_iOS14.ttf",
-    "size": "20.5 MB",
-    "preview_photo": "https://imgur.com/W9Dm9Pk"
-  },
-  {
+    
     "name": "Facebook (5.0)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Facebook5.0.ttf",
     "size": "12.3 MB",
