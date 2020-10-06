@@ -53,6 +53,12 @@
     "name": "Google 🐢",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gturtle.ttf",
     "size": "10.19 MB",
+    "preview_photo": "https://imgur.com/zahxuwd" 
+    },
+  {
+    "name": "iOS+Google 🐢 ",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+Gturtle.ttf",
+    "size": "10.19 MB",
     "preview_photo": "https://imgur.com/zahxuwd"  
   }
 ]
