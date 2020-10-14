@@ -48,38 +48,37 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji.ttf",
     "size": "2.81 MB",
     "preview_photo": "https://imgur.com/sTFyslm"
-    },
+  },   
   {
     "name": "Google 🙈",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/GMonkey.ttf",
     "size": "10.19 MB",
-    "preview_photo": "https://imgur.com/XyBTULW" 
-    },
+    "preview_photo": "https://imgur.com/XyBTULW"
+  },   
   {
     "name": "iOS+Google 🙈 ",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+GMonkey.ttf",
     "size": "22.00 MB",
-    "preview_photo": "https://imgur.com/XyBTULW"  
-  }
- },
+    "preview_photo": "https://imgur.com/XyBTULW" 
+  },
   {
     "name": "Google 🐢",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gturtle.ttf",
     "size": "10.19 MB",
     "preview_photo": "https://imgur.com/zahxuwd" 
-    },
+  },
   {
     "name": "iOS+Google 🐢 ",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+Gturtle.ttf",
     "size": "22.00 MB",
     "preview_photo": "https://imgur.com/zahxuwd"
-    },
+  },
   {
     "name": "Google 💩",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/GPoo.ttf",
     "size": "10.19 MB",
     "preview_photo": "https://imgur.com/SDaiBN3" 
-    },
+  }, 
   {
     "name": "iOS+Google 💩 ",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+GPoo.ttf",
