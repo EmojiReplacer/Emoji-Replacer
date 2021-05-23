@@ -12,28 +12,22 @@
     "preview_photo": "https://imgur.com/BjAQllM"
   },
   {	
-    "name": "iOS14.2",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS14.ttf",
-    "size": "22.9  MB",
-    "preview_photo": "https://imgur.com/JcVeO9b"
-  },
-  {
     "name": "JoyPixels 6.5 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/JoyPixels6.5.ttf",
     "size": "24.2 MB",
     "preview_photo": "https://imgur.com/QWsnclb"
   },
   {
-    "name": "Facebook 5.0",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Facebook5.0.ttf",
-    "size": "12.3 MB",
-    "preview_photo": "https://imgur.com/g6IYfrK"
-  },
-  {
     "name": "Google 11 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
     "size": "9.2 MB",
     "preview_photo": "https://imgur.com/jmoXjL2"  
+  },
+  {
+    "name": "Facebook 5.0",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Facebook5.0.ttf",
+    "size": "12.3 MB",
+    "preview_photo": "https://imgur.com/g6IYfrK"
   },
   {
     "name": "Samsung 2.5",
