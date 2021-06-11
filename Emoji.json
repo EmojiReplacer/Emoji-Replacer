@@ -10,6 +10,18 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/TMNT+iOS14.5.ttf",
     "size": "25.33 MB",
     "preview_photo": "https://imgur.com/BjAQllM"
+ },
+ {
+    "name": "WhatsApp 20",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/WhatsApp20.ttf",
+    "size": "25.7 MB",
+    "preview_photo": "http://imgur.com/a/7TRwMv7"
+  },
+  {
+    "name": "Facebook (13.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Facebook13.1.ttf",
+    "size": "13.34 MB",
+    "preview_photo": "http://imgur.com/a/s65hzS7"
   },
   {	
     "name": "JoyPixels 6.5 (13.1)",
@@ -22,12 +34,6 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
     "size": "9.2 MB",
     "preview_photo": "https://imgur.com/jmoXjL2"  
-  },
-  {
-    "name": "Facebook 5.0",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Facebook5.0.ttf",
-    "size": "12.3 MB",
-    "preview_photo": "https://imgur.com/g6IYfrK"
   },
   {
     "name": "Samsung 2.5",
