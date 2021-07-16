@@ -36,6 +36,12 @@
     "preview_photo": "https://imgur.com/QWsnclb"
   },
   {
+    "name": "Android 12 (13.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android12.ttf",
+    "size": "9.2 MB",
+    "preview_photo": "https://imgur.com/jmoXjL2" 
+  },
+  {
     "name": "Google 11 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
     "size": "9.2 MB",
