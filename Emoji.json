@@ -53,18 +53,24 @@
     "size": "16 MB",
     "preview_photo": "https://imgur.com/NiueOqZ"    
   },
+  {
+    "name": "Twemoji (13.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji13.1.ttf",
+    "size": "3.05 MB",
+    "preview_photo": "https://imgur.com/WwcME19"
+  },
+  {
+    "name": "Vsmart (13.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Vsmart.ttf",
+    "size": "10.2 MB",
+    "preview_photo": "https://imgur.com/71TuXgk" 
+  },   
   {
     "name": "Emoji Kitchen",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/EmojiKitchen.ttf",
     "size": "9.8 MB",
     "preview_photo": "https://imgur.com/OYvo46z"    
   },
-  {
-    "name": "Twemoji (13.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji13.1.ttf",
-    "size": "3.05 MB",
-    "preview_photo": "https://imgur.com/WwcME19"
-  },   
   {
     "name": "Blob (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gblob.ttf",
