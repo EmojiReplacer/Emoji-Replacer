@@ -9,7 +9,13 @@
     "name": "unofficial_iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/unofficial_iOS16_u14.ttf",
     "size": "25.86 MB",
-    "preview_photo": "https://imgur.com/5N9G1N3"    
+    "preview_photo": "https://imgur.com/5N9G1N3"
+},
+{
+    "name": "LG-A11+iOS(u14)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS14.6.ttf",
+    "size": "21.86 MB",
+    "preview_photo": "https://imgur.com/TsvmxB2"    
  },
  {
     "name": "TMNT (u14) 🥷🐢",
@@ -53,7 +59,8 @@
     "size": "16 MB",
     "preview_photo": "https://imgur.com/NiueOqZ"    
   },
-  {
+  {
+
     "name": "Twemoji (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji13.1.ttf",
     "size": "3.05 MB",
