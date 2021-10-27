@@ -65,12 +65,17 @@
     "size": "16 MB",
     "preview_photo": "https://imgur.com/NiueOqZ"    
   },
-  {
-
+  {
     "name": "Twemoji (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji13.1.ttf",
     "size": "3.05 MB",
     "preview_photo": "https://imgur.com/WwcME19"
+  },
+  {
+    "name": "Windows 11",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Windows11.ttf",
+    "size": "2.64 MB",
+    "preview_photo": "https://imgur.com/yhwF9w7"
   },
   {
     "name": "Vsmart (13.1)",
