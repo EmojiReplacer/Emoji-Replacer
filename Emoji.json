@@ -49,28 +49,10 @@
     "preview_photo": "https://imgur.com/OcKmVUX"
   },
   {
-    "name": "Android 12L (u14)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android12L.ttf",
-    "size": "9.2 MB",
-    "preview_photo": "https://imgur.com/SbdKKhB" 
-  },
-  {
     "name": "Android 13 (u15)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android13.ttf",
     "size": "9.2 MB",
     "preview_photo": "https://imgur.com/U3l0w5A" 
-  },
-  {
-    "name": "Android 12 (13.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android12.ttf",
-    "size": "9.2 MB",
-    "preview_photo": "https://imgur.com/jmoXjL2" 
-  },
-  {
-    "name": "Google 11 (13.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Google11.ttf",
-    "size": "9.2 MB",
-    "preview_photo": "https://imgur.com/jmoXjL2"  
   },
   {
     "name": "Samsung OneUI5 (14)",
