@@ -1,36 +1,35 @@
 [
- {
+  {
     "name": "iOS 15.4 (u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS15.4.ttf",
     "size": "26 MB",
     "preview_photo": "https://imgur.com/90QbdJj"
- },
- {
-
-    "name": "iOS 14.6 (13.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS14.6.ttf",
-    "size": "25.3 MB",
-    "preview_photo": "https://imgur.com/U0Iz0hM"
- },
- {
+  },
+  {
     "name": "unofficial_iOS16(u15)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/unofficial_iOS16.ttf",
     "size": "25.86 MB",
     "preview_photo": "https://imgur.com/Qi4GB8m"
-},
-{
+  },
+  {
+    "name": "Android 13 (u15)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android13.ttf",
+    "size": "9.2 MB",
+    "preview_photo": "https://imgur.com/U3l0w5A"
+  },
+  {
     "name": "LG-A11+iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS(u14).ttf",
     "size": "21.86 MB",
     "preview_photo": "https://imgur.com/TsvmxB2"    
- },
- {
+  },
+  {
     "name": "TMNT (u14) 🥷🐢",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/TMNT+iOS15.4.ttf",
     "size": "25.33 MB",
     "preview_photo": "https://imgur.com/BjAQllM"
- },
- {
+  },
+  {
     "name": "WhatsApp 21 (u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/WA21-u13.1+u14.ttf",
     "size": "26.7 MB",
@@ -46,13 +45,7 @@
     "name": "JoyPixels 7.0 (u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/JoyPixels7.0.ttf",
     "size": "24.2 MB",
-    "preview_photo": "https://imgur.com/OcKmVUX"
-  },
-  {
-    "name": "Android 13 (u15)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Android13.ttf",
-    "size": "9.2 MB",
-    "preview_photo": "https://imgur.com/U3l0w5A" 
+    "preview_photo": "https://imgur.com/OcKmVUX" 
   },
   {
     "name": "Samsung OneUI5 (14)",
