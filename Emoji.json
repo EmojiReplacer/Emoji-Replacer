@@ -24,6 +24,12 @@
     "preview_photo": "https://imgur.com/U3l0w5A"
   },
   {
+    "name": "Facebook (u15)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/FacebookU15.ttf",
+    "size": "13.34 MB",
+    "preview_photo": "https://imgur.com/0Vphy46"
+  },
+  {
     "name": "LG-A11+iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS(u14).ttf",
     "size": "21.86 MB",
@@ -40,12 +46,6 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/WA21-u13.1+u14.ttf",
     "size": "26.7 MB",
     "preview_photo": "https://imgur.com/mTQu1mu"
-  },
-  {
-    "name": "Facebook (u15)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/FacebookU15.ttf",
-    "size": "13.34 MB",
-    "preview_photo": "https://imgur.com/0Vphy46"
   },
   {	
     "name": "JoyPixels 7.0 (u14)",
