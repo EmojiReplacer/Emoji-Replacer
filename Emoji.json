@@ -42,6 +42,18 @@
     "preview_photo": "https://imgur.com/MFsjs6c"
   },
   {
+    "name": "JoyPixels 8.0 (u15)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/JoyPixels8.0.ttf",
+    "size": "24.2 MB",
+    "preview_photo": "https://imgur.com/GOFgPOq" 
+  },
+  {
+    "name": "Blob (15.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/BlobMoji15.1.ttf",
+    "size": "10.17 MB",
+    "preview_photo": "https://imgur.com/XhU2EA3"
+  },   
+  {
     "name": "LG-A11+iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS(u14).ttf",
     "size": "21.86 MB",
@@ -58,12 +70,6 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/WA21-u13.1+u14.ttf",
     "size": "26.7 MB",
     "preview_photo": "https://imgur.com/mTQu1mu"
-  },
-  {	
-    "name": "JoyPixels 8.0 (u15)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/JoyPixels8.0.ttf",
-    "size": "24.2 MB",
-    "preview_photo": "https://imgur.com/OcKmVUX" 
   },
   {
     "name": "Samsung Xmas 🎅 (13.1)",
@@ -97,12 +103,6 @@
     "size": "9.8 MB",
     "preview_photo": "https://imgur.com/OYvo46z"    
   },
-  {
-    "name": "Blob (15.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/BlobMoji15.1.ttf",
-    "size": "10.17 MB",
-    "preview_photo": "https://imgur.com/I9pl3TB"
-  },   
   {
     "name": "Blob (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gblob.ttf",
