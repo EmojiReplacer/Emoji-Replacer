@@ -60,6 +60,12 @@
     "preview_photo": "https://imgur.com/3VP3nNE"
   },   
   {
+    "name": "Twemoji 15",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji15.ttf",
+    "size": "15.0 MB",
+    "preview_photo": "https://imgur.com/fMZmC4y"
+  },
+  {
     "name": "LG-A11+iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS(u14).ttf",
     "size": "21.86 MB",
@@ -84,14 +90,6 @@
     "preview_photo": "https://imgur.com/6zoSRpq"        
   },
   {
-
-    "name": "Twemoji 14",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji14.ttf",
-    "size": "5.0 MB",
-    "preview_photo": "https://imgur.com/fMZmC4y"
-  },
-  {
-
     "name": "Windows 11 (u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Windows11(u14).ttf",
     "size": "2.64 MB",
