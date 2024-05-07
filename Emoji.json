@@ -1,15 +1,21 @@
 [
   {
     "name": "iOS 17.4 (u15.1)",
-    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS17.4.ttf",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/iOS17.4.ttf",
     "size": "26 MB",
-    "preview_photo": "https://imgur.com/90QbdJj"
+    "preview_photo": "https://imgur.com/h0obNQM"
   },
   {
     "name": "iOS16.4beta (u15)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS16.4beta.ttf",
     "size": "25.86 MB",
     "preview_photo": "https://imgur.com/4SEa21y"
+  },
+  {
+    "name": "WhatsApp 22 (u15.1)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/WhatsApp-v2.24.2.76.ttf",
+    "size": "26.7 MB",
+    "preview_photo": "https://imgur.com/WznyqXe"
   },
   { 
     "name": "SamsungOUi6 8 (u15.1)",
@@ -58,6 +64,18 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/BlobMoji15.1.ttf",
     "size": "10.17 MB",
     "preview_photo": "https://imgur.com/XhU2EA3"
+  },
+  {
+    "name": "Fluent 3D (u15)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/MicrosoftFluentUI3D-v15.0.ttf",
+    "size": "25.86 MB",
+    "preview_photo": "https://imgur.com/KXix1ox"
+  },
+  {
+    "name": "Fluent Flat (u15)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/MicrosoftFluentUIFlat-v15.0.ttf",
+    "size": "25.86 MB",
+    "preview_photo": "https://imgur.com/4bPIeTT"
   },   
   {
     "name": " Huawei (15) ",
