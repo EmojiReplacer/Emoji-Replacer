@@ -1,8 +1,14 @@
 [
   {
+    "name": "Unofficial iOS 18 (u16)",
+    "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/unofficial_iOS18.ttf",
+    "size": "45 MB",
+    "preview_photo": "https://imgur.com/h0obNQM"
+  },
+  {
     "name": "iOS 17.4 (u15.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/iOS17.4.ttf",
-    "size": "26 MB",
+    "size": "45 MB",
     "preview_photo": "https://imgur.com/h0obNQM"
   },
   {
