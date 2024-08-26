@@ -29,7 +29,7 @@
     "size": "26.7 MB",
     "preview_photo": "https://imgur.com/WznyqXe"
   },
-  { 
+  {
     "name": "SamsungOUi6 8 (u15.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Samsung_OneUi6_beta8_u15.1.ttf",
     "size": "16 MB",
@@ -69,7 +69,7 @@
     "name": "JoyPixels 9.0 (u15.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/JoyPixel9.0.ttf",
     "size": "24.2 MB",
-    "preview_photo": "https://imgur.com/GOFgPOq" 
+    "preview_photo": "https://imgur.com/GOFgPOq"
   },
   {
     "name": "Blob (15.1)",
@@ -88,19 +88,19 @@
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/2024/MicrosoftFluentUIFlat-v15.0.ttf",
     "size": "25.86 MB",
     "preview_photo": "https://imgur.com/4bPIeTT"
-  },   
+  },
   {
-    "name": " Huawei (15) ",
+    "name": "Huawei (15)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Huawei.ttf",
     "size": "12MB",
     "preview_photo": "https://imgur.com/3VP3nNE"
-  },   
+  },
   {
-    "name": " Tossface v1.6 ",
+    "name": "Tossface v1.6",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Tossface_v1.6+NotoU15.1.ttf",
     "size": "13MB",
     "preview_photo": "https://imgur.com/NbMDVzL"
-  },   
+  },
   {
     "name": "Twemoji 15 (15)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Twemoji15.ttf",
@@ -111,7 +111,7 @@
     "name": "LG-A11+iOS(u14)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/LG-A11+iOS(u14).ttf",
     "size": "21.86 MB",
-    "preview_photo": "https://imgur.com/TsvmxB2"    
+    "preview_photo": "https://imgur.com/TsvmxB2"
   },
   {
     "name": "TMNT (u14) 🥷🐢",
@@ -129,7 +129,7 @@
     "name": "Samsung Xmas 🎅 (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/SamsungOneUI4_Xmas.ttf",
     "size": "14 MB",
-    "preview_photo": "https://imgur.com/6zoSRpq"        
+    "preview_photo": "https://imgur.com/6zoSRpq"
   },
   {
     "name": "Windows 11 (u14)",
@@ -141,37 +141,37 @@
     "name": "Vsmart (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Vsmart.ttf",
     "size": "10.2 MB",
-    "preview_photo": "https://imgur.com/71TuXgk" 
-  },   
+    "preview_photo": "https://imgur.com/71TuXgk"
+  },
   {
     "name": "Emoji Kitchen",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/EmojiKitchen.ttf",
     "size": "9.8 MB",
-    "preview_photo": "https://imgur.com/OYvo46z"    
+    "preview_photo": "https://imgur.com/OYvo46z"
   },
   {
     "name": "Blob (13.1)",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gblob.ttf",
     "size": "10.17 MB",
     "preview_photo": "https://imgur.com/I9pl3TB"
-  },   
+  },
   {
     "name": "Google 🙈",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/GMonkey.ttf",
     "size": "10.19 MB",
     "preview_photo": "https://imgur.com/dVxAM5i"
-  },   
+  },
   {
     "name": "iOS+Google 🙈 ",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+GMonkey.ttf",
     "size": "22.00 MB",
-    "preview_photo": "https://imgur.com/dVxAM5i" 
+    "preview_photo": "https://imgur.com/dVxAM5i"
   },
   {
     "name": "Google 🐢",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/Gturtle.ttf",
     "size": "10.19 MB",
-    "preview_photo": "https://imgur.com/K8fb0gs" 
+    "preview_photo": "https://imgur.com/K8fb0gs"
   },
   {
     "name": "iOS+Google 🐢 ",
@@ -183,12 +183,12 @@
     "name": "Google 💩",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/GPoo.ttf",
     "size": "10.19 MB",
-    "preview_photo": "https://imgur.com/8XOcVHB" 
-  }, 
+    "preview_photo": "https://imgur.com/8XOcVHB"
+  },
   {
     "name": "iOS+Google 💩 ",
     "download_link": "https://github.com/EmojiReplacer/Emoji-Replacer/blob/master/Emoji/iOS+GPoo.ttf",
     "size": "22.00 MB",
-    "preview_photo": "https://imgur.com/8XOcVHB" 
+    "preview_photo": "https://imgur.com/8XOcVHB"
   }
 ]
