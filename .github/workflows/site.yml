@@ -38,15 +38,10 @@ jobs:
           bun-version: latest
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Navigate to site directory and install dependencies
-        run: |
-          ls
-          cd site
-          bun install
+      - name: Install dependencies
+        run: bun install
       - name: Build with VitePress
-        run: |
-          ls
-          bun run docs:build
+        run: bun run docs:build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
