@@ -78,10 +78,10 @@
     "preview": "assets/BlobMoji15.1.png"
   },
   {
-    "name": "Fluent 3D (u15)",
-    "download": "Emoji/2024/MicrosoftFluentUI3D-v15.0.ttf",
-    "size": "25.86 MB",
-    "preview": "assets/MicrosoftFluentUI3D-v15.0.png"
+    "name": "Fluent 3D (u15.1)",
+    "download": "Emoji/2024/FluentUI3D15.1.ttf",
+    "size": "30.15 MB",
+    "preview": "assets/FluentUI3D15.1.png"
   },
   {
     "name": "Fluent Flat (u15.1)",
@@ -105,7 +105,7 @@
     "name": "Twemoji 15 (15.1)",
     "download": "Emoji/2024/Twemoji15.1.ttf",
     "size": "12.24 MB",
-    "preview": "assets/Twemoji15.png"
+    "preview": "assets/Twemoji15.1.png"
   },
   {
     "name": "LG-A11+iOS(u14)",
