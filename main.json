@@ -2,19 +2,19 @@
   {
     "name": "Unofficial iOS 18 (u16)",
     "download": "Emoji/2024/unofficial_iOS18_EPu16_136x128.ttf",
-    "size": "29.40 MB size 136x128",
+    "size": "29.40 MB - PX 136x128",
     "preview": "assets/unofficial_iOS18_EPu16.png"
   },
   {
     "name": "Unofficial iOS 18 (u16)",
     "download": "Emoji/2024/unofficial_iOS18.ttf",
-    "size": "45 MB",
+    "size": "45 MB - PX 160x160",
     "preview": "assets/unofficial_iOS18.png"
   },
   {
     "name": "iOS 17.4 (u15.1)",
     "download": "Emoji/2024/iOS17.4.ttf",
-    "size": "45 MB",
+    "size": "45 MB - PX 160x160",
     "preview": "assets/iOS17.4.png"
   },
   {
@@ -67,7 +67,7 @@
   },
   {
     "name": "JoyPixels 9.0 (u15.1)",
-    "download": "Emoji/JoyPixel9.0.ttf",
+    "download": "Emoji/2024/JoyPixel9.0.ttf",
     "size": "13.2 MB",
     "preview": "assets/JoyPixel9.0.png"
   },
@@ -78,16 +78,16 @@
     "preview": "assets/BlobMoji15.1.png"
   },
   {
-    "name": "Fluent 3D (u15)",
-    "download": "Emoji/2024/MicrosoftFluentUI3D-v15.0.ttf",
-    "size": "25.86 MB",
-    "preview": "assets/MicrosoftFluentUI3D-v15.0.png"
+    "name": "Fluent 3D (u15.1)",
+    "download": "Emoji/2024/FluentUI3D15.1.ttf",
+    "size": "30.15 MB",
+    "preview": "assets/FluentUI3D15.1.png"
   },
   {
-    "name": "Fluent Flat (u15)",
-    "download": "Emoji/2024/MicrosoftFluentUIFlat-v15.0.ttf",
-    "size": "25.86 MB",
-    "preview": "assets/MicrosoftFluentUIFlat-v15.0.png"
+    "name": "Fluent Flat (u15.1)",
+    "download": "Emoji/2024/FluentUIFlat15.1.ttf",
+    "size": "16.79 MB",
+    "preview": "assets/FluentUIFlat15.1.png"
   },
   {
     "name": "Huawei (15)",
@@ -102,10 +102,10 @@
     "preview": "assets/Tossface_v1.6+NotoU15.1.png"
   },
   {
-    "name": "Twemoji 15 (15)",
-    "download": "Emoji/Twemoji15.ttf",
-    "size": "15.0 MB",
-    "preview": "assets/Twemoji15.png"
+    "name": "Twemoji 15 (15.1)",
+    "download": "Emoji/2024/Twemoji15.1.ttf",
+    "size": "12.24 MB",
+    "preview": "assets/Twemoji15.1.png"
   },
   {
     "name": "LG-A11+iOS(u14)",
