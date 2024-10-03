@@ -54,10 +54,10 @@
     "preview": "assets/Samsung_OneUI5_beta4_U15.png"
   },
   {
-    "name": "Android 15 (u16)(SVG)",
-    "download": "Emoji/2024/Android15(u16)(SVG).ttf",
-    "size": "23.15 MB",
-    "preview": "assets/Android15(u16)(SVG).png"
+    "name": "Android 13 (u15.1)",
+    "download": "Emoji/Android13(u15.1).ttf",
+    "size": "9.2 MB",
+    "preview": "assets/Android13(u15.1).png"
   },
   {
     "name": "FaceBook (u15)",
